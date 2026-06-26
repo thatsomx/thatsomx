@@ -1,16 +1,14 @@
-## Hi there 👋
+# Ciao, sono Omar Ech Cherrate! 👋
 
-<!--
-**thatsomx/thatsomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studente di Informatica presso l'Università di Pisa ed ex diplomato SIA. La mia vera passione si trova all'intersezione tra lo **sviluppo Web Front-End** e il **Design UI/UX**. Mi piace l'idea di prendere logiche di programmazione complesse e modellarle dentro interfacce utente che siano pulite, intuitive e visivamente curate.
 
-Here are some ideas to get you started:
+Attualmente sto lavorando per portare le mie competenze accademiche di HTML5, CSS3 e JavaScript (ES6) verso un livello pratico e concreto, costruendo i miei primi progetti personali con un occhio di riguardo per l'esperienza utente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Il mio Stack & Strumenti
+- **Web Development:** HTML5, CSS3, JavaScript (ES6)
+- **UI/UX & Visual:** Studio del Wireframing, Interfacce Responsive, Clean Design
+- **Basi di Dati & Strumenti:** SQL, Git/GitHub
+- **Core Accademico:** Programmazione a Oggetti (OOP), Algoritmi e Strutture Dati
+
+### 🚀 Progetti in Sviluppo
+*Sto attualmente progettando e sviluppando i miei primi prototipi web per unire codice e design*
